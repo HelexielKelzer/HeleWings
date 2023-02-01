@@ -36,7 +36,7 @@ do
 
 \033[1;34mA HeleWings v1 (ou asas de helexiel) é uma script cuja ideia de criação foi do Helexiel Kelzer. Então, esta ferramenta é praticamente uma atualização da HeleScript v2, cujo o desenvolvedor é o mesmo.
                                                                       
-Vale destacar que na HelêWings o Helexiel Kelzer obteve ajuda de uns membros da comunidade ScriptZone.\033[0m
+Vale destacar que na HelêWings o Helexiel Kelzer obteve ajuda de uns membros da HeleSoft.\033[0m
 
 \033[1;33mFunção da script:\033[0m
 
@@ -115,7 +115,7 @@ deixe aqui
 
 \033[1;33mHistória:\033[0m
 
-\033[1;34mTentame Kelzer é um projeto da ScriptZone, que tem por objetivo enviar áudio falso no Whatsapp. atualmente está na versão 1 desenvolvida pelo Helexiel Kelzer em Shell Script.
+\033[1;34mTentame Kelzer é um projeto da HeleSoft, que tem por objetivo enviar áudio falso no Whatsapp. atualmente está na versão 1 desenvolvida pelo Helexiel Kelzer em Shell Script.
 
 
 A pergunta que não quer calar é "Como ele fez isso?" Ele implementou o programa espeak na sua script para fazer o termux falar e também utilizou um método que ele mesmo descobriu.
