@@ -228,7 +228,7 @@ Vale destacar que é o juiz que escolhe isso. Eu não tenho certeza se isso vai 
 =\033[0m\033[1;33mSERVIÇOS DE REDES\033[0m\033[1;36m=
 =-=-=-=-=-=-=-=-=-=\033[0m
 
-\033[1;31mOlá , primeiramente obrigado por tá participando do projeto da ScriptZone e de alguma forma ajudando o nosso projeto, pois só pelo fato de você está lendo as aulas você já está nós ajudando. Enfim, continue focado e vamos lá :D
+\033[1;31mOlá , primeiramente obrigado por tá participando do projeto da HeleSoft e de alguma forma ajudando o nosso projeto, pois só pelo fato de você está lendo as aulas você já está nós ajudando. Enfim, continue focado e vamos lá :D
 
 Hoje a aula é sobre serviços de redes, e essa aula vai ser uma espécie de introdução ao assunto.
 
@@ -1898,7 +1898,7 @@ R=\033[0m \033[1;31mSão: > , <> , >= ,<= etc... \033[0m
 =\033[0m\033[1;33mAPOSTILA DA AULA 19: \033[0m\033[1;36m=
 =-=-=-=-=-=-=-=-=-=-=-=\033[0m
 
-\033[1;33mESCOLA:\033[0m \033[1;31mScriptZone Br\033[0m
+\033[1;33mESCOLA:\033[0m \033[1;31mHeleSoft\033[0m
 \033[1;33mDONO:\033[0m\033[1;31m Helexiel Kelzer\033[0m
 \033[1;33mPROFESSOR: \033[0m\033[1;31mHelexiel Kelzer\033[0m
 \033[1;33mALUNO(A):\033[0m\033[1;31m Desconhecido\033[0m
