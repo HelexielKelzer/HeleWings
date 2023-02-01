@@ -832,7 +832,7 @@ l \033[0m\033[1;32m[\033[0m3\033[1;32m]\033[0m\033[1;31m Voltar ao menu anterior
 
 \033[1;33mHistória:\033[0m
 
-\033[1;34mTentame Kelzer é um projeto da ScriptZone, que tem por objetivo enviar áudio falso no Whatsapp. atualmente está na versão 1 desenvolvida pelo Helexiel Kelzer em Shell Script.
+\033[1;34mTentame Kelzer é um projeto da HeleSoft, que tem por objetivo enviar áudio falso no Whatsapp. atualmente está na versão 1 desenvolvida pelo Helexiel Kelzer em Shell Script.
 
 
 A pergunta que não quer calar é "Como ele fez isso?" Ele implementou o programa espeak na sua script para fazer o termux falar e também utilizou um método que ele mesmo descobriu.
