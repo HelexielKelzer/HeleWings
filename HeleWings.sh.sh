@@ -598,7 +598,7 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
 
 
      23)
-	#ABRIR O SITE DA SCRIPTZONE
+	#ABRIR O SITE DA HeleSoft
 		echo -e "
 \033[1;36m=-=-=-=-=-=-=-=-=\033[0m
 \033[1;36ml\033[0m \033[1;33m SCRIPTZONE\033[0m   \033[1;36ml\033[0m
@@ -624,7 +624,7 @@ Para os que sabem programar e etc... terão a cor azul.\033[0m
 		echo    
 		echo -e "\033[1;33mESTÁ CURIOSO ? BEM VINDO AO CLUBE ! AGORA, DIGITE ENTER PARA CONTINUAR\033[0m"
 		read SEGUE
-		termux-open-url https://Site-ScriptZone.vercel.app;;
+		termux-open-url https://Site-HeleSoft-BR.blogspot.com/;;
 
 
 
@@ -782,8 +782,8 @@ GRUPOS APOIADORES:\033[0m\033[1;34m
      Família Flood
      Tecno go
      Programando o mundo\033[0m
-\033[1;32mUM SITE DE HACKING DO HELEXIEL:\033[0m\033[1;34m
-     \033[0mhttps://Site-ScriptZone.vercel.app
+\033[1;32mUM SITE DE HACKING E DESENVOLVIMENTO:\033[0m\033[1;34m
+     \033[0mhttps://Site-HeleSoft-BR.blogspot.com/
 
 \033[03;32m"A indepedência começa quando você não depende de alguém nem mesmo para aprender ", Helexiel Kelzer.\033[0m';;
 
